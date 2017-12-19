@@ -19,3 +19,4 @@ class Block:
                    str(self.previous_hash))
         return sha.hexdigest()
     
+    
